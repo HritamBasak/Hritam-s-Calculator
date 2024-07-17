@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hritam\'s Calculator</string>
+    <string name="division">Division</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="substraction">Substraction</string>
+    <string name="addition">Addition</string>
+    <string name="result">Result</string>
+    <string name="enter_the_2nd_number">Enter The 2nd Number</string>
+    <string name="enter_the_1st_number">Enter the 1st Number</string>
+</resources>
