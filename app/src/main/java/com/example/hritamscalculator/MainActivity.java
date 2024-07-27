@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
                 double ans;
                 firstVal=Integer.parseInt(firstNum.getText().toString());
                 secondVal=Integer.parseInt(secNum.getText().toString());
-                ans=firstVal/secondVal;
+                ans= (double) firstVal /secondVal;
 
                 res.setText("Division of "+firstVal+" and "+secondVal+" is "+ans);
             }
